@@ -1,0 +1,14 @@
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\bin\Debug\net10.0\Animals.exe
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\bin\Debug\net10.0\Animals.deps.json
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\bin\Debug\net10.0\Animals.runtimeconfig.json
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\bin\Debug\net10.0\Animals.dll
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\bin\Debug\net10.0\Animals.pdb
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.AssemblyInfoInputs.cache
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.AssemblyInfo.cs
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.dll
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\refint\Animals.dll
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.pdb
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\Animals.genruntimeconfig.cache
+C:\Users\pierr\RiderProjects\Skola\Animals\Animals\obj\Debug\net10.0\ref\Animals.dll
